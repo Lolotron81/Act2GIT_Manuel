@@ -4,6 +4,10 @@ body {
     background-size: auto;
 }
 
+.botonVolver {
+color: darkblue;
+}
+
 h1 {
     display: block;
     text-align: center;

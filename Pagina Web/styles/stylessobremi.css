@@ -19,6 +19,12 @@ body, .seccion, nav {
     margin: 0 auto; /* Centrar la página horizontalmente en la ventana */
 }
 
+.botonVolver {
+    color: darkblue;
+    display: flex;
+    justify-content: left;
+    }
+
 /* Barra lateral de navegación */
 nav {
     position: fixed;
